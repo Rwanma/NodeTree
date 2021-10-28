@@ -1,0 +1,6 @@
+ADD_CHILD Arthur Aurora Female
+ADD_CHILD Lily Aurora Female
+ADD_CHILD William Aurora Female
+ADD_CHILD Dominique Aurora Male
+ADD_CHILD Charlie Aurora Male
+ADD_CHILD Lucy Aurora Male

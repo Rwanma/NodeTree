@@ -1,0 +1,2 @@
+ADD_SPOUSE Arthur Margret
+ADD_CHILD Margret Bill Male

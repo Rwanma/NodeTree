@@ -1,0 +1,5 @@
+ADD_SPOUSE Arthur Margret
+ADD_CHILD Margret Celia Female
+ADD_SPOUSE Celia Bill
+ADD_CHILD Celia Bob Male
+ADD_CHILD Bob Tito Male

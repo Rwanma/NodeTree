@@ -1,0 +1,8 @@
+GET_RELATIONSHIP Flora Brother-in-Law
+ADD_CHILD Helen Aurora Female
+ADD_SPOUSE Aurora Bob
+GET_RELATIONSHIP Hugo Brother-in-Law
+ADD_CHILD Ginerva Aurora Female
+GET_RELATIONSHIP Darcy Sister-in-Law
+GET_RELATIONSHIP Bill Sister-in-Law
+

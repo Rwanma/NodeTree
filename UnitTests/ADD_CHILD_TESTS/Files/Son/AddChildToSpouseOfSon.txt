@@ -1,0 +1,4 @@
+ADD_SPOUSE Arthur Margret
+ADD_CHILD Margret Bill Male
+ADD_SPOUSE Bill Celia
+ADD_CHILD Celia Aurora Female
